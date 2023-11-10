@@ -15,6 +15,7 @@
   <p align="center">
   <img src=Picture3.png alt="Cover Image" width="500">
 </p>
+
  - Encryption
  - Steganography
  - Graphiccal User Interface
